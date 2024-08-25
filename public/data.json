@@ -1,0 +1,30 @@
+
+{
+  "navbar": [
+    {
+      "name": "Movies",
+      "dropdown": [
+        { "name": "Popular" },
+        { "name": "New Releases" },
+        { "name": "Top Rated" }
+      ]
+    },
+    {
+      "name": "Explore",
+      "dropdown": [
+        { "name": "Trending Now" },
+        { "name": "Coming Soon" },
+        { "name": "Staff Picks" }
+      ]
+    },
+    {
+      "name": "My Account",
+      "dropdown": [
+        { "name": "My List" },
+        { "name": "Watch History" },
+        { "name": "Profile Settings" },
+        { "name": "Sign Out" }
+      ]
+    }
+  ]
+}
